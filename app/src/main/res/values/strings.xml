@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountryListDemo</string>
+    <string name="coutry_list_title">Here is the list of all the Country</string>
+</resources>
